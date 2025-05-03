@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="timingframework-1.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/timingframework-1.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
