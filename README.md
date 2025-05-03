@@ -20,19 +20,18 @@ A full-featured Java-based Grocery Store application with separate modules for *
 📸 **Preview:**  
 
 ---
-
-![User_Grocery](https://github.com/user-attachments/assets/5c216572-7e0b-403a-9b43-e5b3ad077149)
-![User_grocery-1](https://github.com/user-attachments/assets/7cffdf95-62c2-4e2b-a87d-fbe9e2f7c20d)
-
-
----
-📸 **Preview (Admin):**  
+![User_Grocery](https://github.com/Tehseen-Ajmal/Grocery-Store/blob/main/user-2.jpg)
 
 ---
 
-![Admin](https://github.com/user-attachments/assets/124f075c-96ce-4f30-bd59-af7b0400b077)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c216572-7e0b-403a-9b43-e5b3ad077149" width="49%">
+  <img src="https://github.com/user-attachments/assets/124f075c-96ce-4f30-bd59-af7b0400b077" width="49%">
+</p>
+
 
 ---
+
 ## 🗄️ Database Setup
 
 This project requires a **SQL Server** database.  
