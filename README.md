@@ -1,1 +1,78 @@
-# Grocery-Store
+# 🛒 Grocery Store Management System
+
+A full-featured Java-based Grocery Store application with separate modules for **Admin** and **User**. The system connects to a **Microsoft SQL Server** database through JDBC.
+
+---
+
+## 📌 Features
+
+### ✅ Admin App (`Main_Frame.java`)
+- Manage employees (add, remove, view)  
+- Manage products (add, update, remove, view)  
+- Manage customers (add, update, remove, view)  
+
+---
+
+### 🛍️ User App (`User_Grocery.java`)
+- Browse products  
+- Add to cart and place orders  
+
+📸 **Preview:**  
+
+---
+
+![User_Grocery](https://github.com/user-attachments/assets/5c216572-7e0b-403a-9b43-e5b3ad077149)
+![User_grocery-1](https://github.com/user-attachments/assets/7cffdf95-62c2-4e2b-a87d-fbe9e2f7c20d)
+
+
+---
+📸 **Preview (Admin):**  
+
+---
+
+![Admin](https://github.com/user-attachments/assets/124f075c-96ce-4f30-bd59-af7b0400b077)
+
+---
+## 🗄️ Database Setup
+
+This project requires a **SQL Server** database.  
+To set it up:
+
+1. Create a new database in SQL Server.
+2. Update your database connection settings in the file:  
+   `src/Const.java`  
+   (Set your **username**, **password**, and **database name** here.)  
+3. Ensure you have a `Products` table and other relevant tables as required by the project.
+
+---
+
+## 🔧 Technologies Used
+
+- Java (Swing for GUI)  
+- SQL Server (via JDBC)  
+- IntelliJ IDEA  
+- Git & GitHub  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository using the following command:
+
+```bash
+git clone https://github.com/Tehseen-Ajmal/Grocery-Store.git
+```
+
+2. Create your SQL Server database  
+3. Configure `Const.java` with your DB credentials  
+4. Run the Admin or User apps from:
+   - `Main_Frame.java` for Admin
+   - `User_Grocery.java` for User
+
+---
+
+## 🙌 Credits
+
+Made with 💻 by [Tehseen Ajmal](https://github.com/Tehseen-Ajmal)
+
+🖼️ **Product Images Credit:** Thanks to my class fellows for contributing product images.
